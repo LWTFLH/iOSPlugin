@@ -1,7 +1,3 @@
-flutter_plugin_test
-2.12
-file:///Users/aiwo_liwei/Desktop/flutter_plugin_test/
-file:///Users/aiwo_liwei/Desktop/flutter_plugin_test/lib/
 async
 2.12
 file:///Users/aiwo_liwei/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.6.1/
@@ -86,4 +82,8 @@ flutter_test
 2.12
 file:///Users/aiwo_liwei/flutter/packages/flutter_test/
 file:///Users/aiwo_liwei/flutter/packages/flutter_test/lib/
+flutter_plugin_test
+2.12
+file:///Users/aiwo_liwei/iOSPlugin/flutter_plugin_test/
+file:///Users/aiwo_liwei/iOSPlugin/flutter_plugin_test/lib/
 2
